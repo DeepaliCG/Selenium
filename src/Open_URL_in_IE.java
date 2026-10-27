@@ -7,7 +7,7 @@ public class Open_URL_in_IE {
 
 
 		WebDriver driver = new InternetExplorerDriver();
-		driver.get("https://www.myntra.com");
+		driver.get("https://www.google.com");
 		System.out.println("IE : Title : "+driver.getTitle());
 		
 		System.out.println("IE : URL : "+driver.getCurrentUrl());
