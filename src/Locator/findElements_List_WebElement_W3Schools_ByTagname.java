@@ -7,7 +7,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class findElements_Tagname_List_WebElement_W3Schools {
+public class findElements_List_WebElement_W3Schools_ByTagname {
 
 	public static void main(String[] args) throws InterruptedException {
 
