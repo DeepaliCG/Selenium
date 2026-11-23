@@ -25,6 +25,7 @@ public class selectByVisibleText_selectByValue_selectByIndex_Demo {
 		js.executeScript("window.scrollBy(0,300)");
 		Thread.sleep(1000);
 
+		//selecting skills drop down
 		Select select = new Select(driver.findElement(By.id("Skills")));
 		Thread.sleep(1000);
 		
